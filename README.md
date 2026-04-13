@@ -11,15 +11,11 @@ An AI-powered web app that generates rich video game lore, storylines, and world
 
 ## 🚀 Demo
 
-> live link: https://lore-master-os-gamyopedia-rupstrange-app.streamlit.app/
->
-> Screenshots -
-> <img width="1903" height="773" alt="image" src="https://github.com/user-attachments/assets/d6c30247-8ed4-498b-b459-83bf6c5741dc" />
-> <img width="1837" height="754" alt="image" src="https://github.com/user-attachments/assets/6aebb0fd-9a91-40f7-9353-b0f12d7562b3" />
+🔗 **Live App:** https://lore-master-os-gamyopedia-rupstrange-app.streamlit.app/
 
+<img width="1903" height="773" alt="image" src="https://github.com/user-attachments/assets/d6c30247-8ed4-498b-b459-83bf6c5741dc" />
 
-
-
+<img width="1837" height="754" alt="image" src="https://github.com/user-attachments/assets/6aebb0fd-9a91-40f7-9353-b0f12d7562b3" />
 
 ---
 
